@@ -15,7 +15,7 @@ A solução integra sensores conectados a um **ESP32**, que transmite os dados v
 
 A arquitetura do sistema foi implementada com base em contêineres Docker, utilizando componentes da plataforma **FIWARE** para coleta, gerenciamento e visualização de dados térmicos provenientes de sensores conectados via **protocolo MQTT**. A estrutura é composta por três camadas principais:
 
-![Diagrama de Arquitetura](https://user-images.githubusercontent.com/12345678/fiware-diagrama.png)
+[![Fiware-Deploy-Final.jpg](https://i.postimg.cc/7PmnCZQv/Fiware-Deploy-Final.jpg)](https://postimg.cc/BtPKk40N)
 
 
 ### 🔌 1. Camada IoT
